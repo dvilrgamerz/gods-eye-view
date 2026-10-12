@@ -1,3 +1,7 @@
+> **Fork note:** This repository is a fork of [God's Eye View by Bilawal Sidhu and contributors](https://github.com/bilawalsidhu/gods-eye-view), not an original DVILR project. The upstream README and project credits are preserved below. My proposed change is [PR #1066 — Google Maps startup probe fix](https://github.com/bilawalsidhu/gods-eye-view/pull/1066) (open for review). See also [my developer profile](https://github.com/dvilrgamerz).
+
+---
+
 <div align="center">
 
 # 🌐 God's Eye View
